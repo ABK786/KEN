@@ -1,0 +1,151 @@
+Kohenoor (KEN)
+Unified Digital Utility, Governance & Settlement Asset
+Whitepaper – Version 1.1 (Final)	February 2026
+________________________________________
+1. Abstract
+Kohenoor KEN (KEN) is the sole canonical digital asset of the Kohenoor ecosystem, deployed on Ethereum Mainnet as a hard-capped ERC-20 token. KEN serves as the native settlement, utility, and governance layer across a vertically integrated ecosystem spanning AI & Business Intelligence, DeFi & Mudharba services, tokenized education (Education 3.0), digital marketplaces, and professional training platforms.
+This whitepaper defines the technical architecture, tokenomics, legacy migration framework, security posture, and real-world utility of KEN.
+________________________________________
+2. Vision & Philosophy
+The Kohenoor ecosystem is built to unify:
+•	Artificial Intelligence & Financial Intelligence
+•	Decentralized Finance (DeFi)
+•	Education 3.0 & Professional Enablement
+KEN is designed as a functional digital asset, not a speculative abstraction — enabling access, settlement, incentives, and governance across all Kohenoor platforms.
+One ecosystem. One ledger. One canonical token.
+________________________________________
+3. Token Overview
+3.1 Token Specifications
+Attribute	Details
+Token Name	Kohenoor
+Symbol	KEN
+Standard	ERC-20
+Network	Ethereum Mainnet
+Contract Address	0x5f602133653237f362eb69826ba8237f4f7ab0c3
+Total Supply	101,966 KEN (Hard-Capped)
+Minting	Disabled after genesis
+________________________________________
+3.2 Contract Characteristics
+•	Fixed supply minted at deployment
+•	No inflation, no rebasing
+•	No buy/sell tax
+•	No proxy or hidden mint logic
+•	Source code verified on-chain
+Advanced functionality (staking, governance, services) is implemented outside the core ERC-20 contract via dedicated platforms.
+________________________________________
+4. Security, Audit & Transparency
+4.1 Independent Security Assessments
+•	FreshCoins Audit
+https://www.freshcoins.io/audit/kohenoor
+•	GoPlus Security Scan
+https://gopluslabs.io/token-security/1/0x5f602133653237f362eb69826ba8237f4f7ab0c3
+These reviews assess ownership risk, minting permissions, blacklist functions, honeypot behavior, and contract integrity.
+________________________________________
+5. Utility of KEN
+KEN is the native digital utility asset across the Kohenoor ecosystem.
+Primary functions include:
+•	Settlement of platform services
+•	Access to AI, BI, and trading intelligence
+•	DeFi participation & Mudharba analytics
+•	Education & certification access
+•	Marketplace transactions
+•	Governance participation (DAO roadmap)
+________________________________________
+6. Tokenomics & Supply Policy
+6.1 Supply Discipline
+•	Maximum supply: 101,966 KEN
+•	Inflation: None
+•	Minting: Permanently disabled
+•	Burns: Legacy tokens only
+KEN is a hyper-scarce digital asset by design, with supply integrity enforced through governance and migration rules. Burns may never be needed.
+________________________________________
+7. Legacy Tokens & Migration Framework
+7.1 Legacy Tokens
+Before Ethereum consolidation, two tokens existed:
+•	KEN (C) — Corporate utility (BNB Chain)
+•	KEN (P) — Payments utility (Polygon)
+Both are now retired.
+________________________________________
+7.2 Final & Fixed Parity Ratios
+Legacy Token	Network	Parity to KEN
+KEN (C)	BNB Chain	1 : 1
+KEN (P)	Polygon	500 : 1
+Meaning:
+•	1 KEN (C) on BSC → 1 KEN (ETH)
+•	500 KEN (P) on Polygon → 1 KEN (ETH)
+________________________________________
+8. Burn-to-Unlock Supply Mechanics
+8.1 Core Rule
+Legacy tokens must be burned or permanently retired to unlock KEN.
+All unlocks are constrained by the hard cap of 101,966 KEN.
+________________________________________
+8.2 Authoritative Conversion Examples
+Legacy Burn	Nominal Parity	KEN Unlocked
+100,000 KEN (C)	1 : 1	100,000 KEN
+1,000,000 KEN (P)	500 : 1	1,966 KEN
+Explanation:
+•	Theoretical parity for 1,000,000 KEN (P) equals 2,000 KEN
+•	Actual unlock limited to 1,966 KEN due to remaining supply availability
+Burn eligibility does not override the immutable supply cap.
+Excess theoretical entitlement is extinguished, not deferred.
+________________________________________
+8.3 Supply Integrity Guarantees
+•	Burn occurs first
+•	Unlock capped by remaining supply
+•	No IOUs or future claims
+•	One-way consolidation only
+________________________________________
+9. Products, Services & Acceptability of KEN
+9.1 Core Platforms Powered by KEN
+KEN functions as the native and preferred digital asset across:
+•	KAI – AI & Business Intelligence
+•	KENEX – Exchange & Tokenization Engine
+•	K-Store – Digital marketplace
+•	KENFI & Mudharba Services – AI-assisted portfolio intelligence
+•	ProEdge – Professional & institutional training
+•	Knowledge Gateway & Education 3.0 programs
+KEN enables access, discounts, priority tiers, and native ecosystem benefits.
+________________________________________
+9.2 Acceptability Framework
+•	KEN is the native digital settlement asset of the ecosystem
+•	Certain services and premium tiers are:
+o	Exclusively accessible via KEN, or
+o	Discounted when settled in KEN
+•	Fiat or other assets may be accepted selectively but do not receive native benefits
+________________________________________
+9.3 Partner-Enabled Adoption
+Selected third-party partners have voluntarily opted to:
+•	List products or services on K-Store denominated in KEN
+•	Accept KEN as a settlement asset
+Participation is voluntary, contractual, and policy-driven.
+This demonstrates organic external adoption, extending KEN utility beyond internal platforms.
+________________________________________
+10. Governance & DAO Roadmap
+KEN holders will progressively gain governance rights covering:
+•	Platform upgrades
+•	Treasury allocations
+•	Ecosystem expansion priorities
+•	Staking & incentive parameters
+DAO implementation will be phased for security and compliance.
+________________________________________
+11. Roadmap (High-Level)
+•	2025: Ethereum Mainnet consolidation
+•	2026: Liquidity expansion, staking, DAO rollout
+•	2026–2027: Full AI–DeFi–Education 3.0 integration
+•	Beyond: Institutional and partner ecosystem growth
+________________________________________
+
+12. Risk Disclosure
+KEN is a utility token. Participants acknowledge:
+•	Market volatility
+•	Regulatory uncertainty
+•	Smart-contract interaction risks
+•	No guaranteed returns
+Users must conduct independent due diligence.
+________________________________________
+13. Final Canonical Statement
+Kohenoor KEN (Ethereum) is the sole canonical token of the Kohenoor ecosystem.
+All legacy tokens derive value only through burn-based conversion into KEN, strictly constrained by the immutable supply cap of 101,966 KEN.
+________________________________________
+More information on Official Websites: www.kohenoor.tech / www.kohenoor.net 
+End of Whitepaper – Version 1.1 (Final)
