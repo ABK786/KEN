@@ -1,0 +1,20 @@
+Legacy Testnet Deployments
+Purpose: Testing ecosystem DeFi operations
+Fate: Legacy testnet tokens Burn to unlock Kohenoor KEN (Ethereum Mainnet)
+1. Kohenoor (KEN) - Payment Tokens [KEN(P)]
+Explorer: https://polygonscan.com/token/0x0835cdd017ea7bc4cc187c6e0f8ea2dbe0fea0dd
+Maximum supply: 1,000,000 KEN
+Network: Polygon (ERC-20)
+CA: 0x0835cdd017ea7bc4cc187c6e0f8ea2dbe0fea0dd
+Pools on Uniswap, Sushswap, Quickswap - Test listed on LATOKEN, VinDax
+In Circulation: 49,877 KEN
+Boughtback/held by treasury: 950,123 KEN
+-------------------------------------------------------------------------------------
+2. Kohenoor (KEN) - Corporate Partnerships [KEN(C)]
+Explorer: https://bscscan.com/token/0x7e0c21bfc08a4abf17cd52a2424a8f8eeeec8431
+Maximum supply: 100,000 KEN
+Network: Binance Smart Chain
+CA: 0x7e0c21bfc08a4abf17cd52a2424a8f8eeeec8431
+Pool on Pancakeswap
+In Circulation: 138 KEN
+Boughtback/held by treasury: 99,862 KEN
